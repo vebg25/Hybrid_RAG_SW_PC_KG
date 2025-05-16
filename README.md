@@ -1,6 +1,6 @@
 **Multi-Retriever RAG Pipeline with LlamaIndex**  
 
-A modular Retrieval-Augmented Generation (RAG) system combining vector, sentence window, and knowledge graph retrievers with LlamaIndex, HuggingFace embeddings, and Groq LLMs.
+A modular Retrieval-Augmented Generation (RAG) system combining parent-child, sentence window, and knowledge graph retrievers with LlamaIndex, HuggingFace embeddings, and Groq LLMs.
 
 ---
 
@@ -8,7 +8,7 @@ A modular Retrieval-Augmented Generation (RAG) system combining vector, sentence
 
 - ⚙️ **Modular Design**: Clean architecture with reusable components.
 - 🤖 **Multi-Retriever Fusion**:
-  - Vector-based retrieval
+  - Parent-child retrieval
   - Sentence-window context retriever
   - Neo4j-based knowledge graph retriever
 - 📚 **RAG Capabilities**: Combines multiple retrievers using `QueryFusionRetriever`.
