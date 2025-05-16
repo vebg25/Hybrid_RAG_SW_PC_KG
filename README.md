@@ -1,4 +1,4 @@
-**Multi-Retriever RAG Pipeline with LlamaIndex**  
+**Multi-Retriever Hybrid RAG Pipeline with LlamaIndex**  
 
 A modular Retrieval-Augmented Generation (RAG) system combining parent-child, sentence window, and knowledge graph retrievers with LlamaIndex, HuggingFace embeddings, and Groq LLMs.
 
