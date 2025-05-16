@@ -39,5 +39,11 @@ NEO4J_CONFIG = {
 }
 ```
 
+### 
+Run main.py
+
+```python
+python main.py
+```
 
 
