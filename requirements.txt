@@ -1,0 +1,13 @@
+llama-index
+llama-index-llms-huggingface
+llama-index-llms-groq
+llama-index-embeddings-huggingface
+llama-index-embeddings-instructor
+llama-index-readers-file
+llama-index-graph-stores-neo4j
+neo4j
+transformers
+accelerate
+bitsandbytes
+pyvis
+nest_asyncio
