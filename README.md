@@ -18,3 +18,8 @@ A modular Retrieval-Augmented Generation (RAG) system combining parent-child, se
 - 📂 **Paul Graham Essays**: Uses LlamaIndex’s curated essay dataset for demos.
 
 ---
+
+```git
+git clone https://github.com/vebg25/Hybrid_RAG_SW_PC_KG.git
+```
+
